@@ -49,6 +49,6 @@ const FooterContent = () => {
   //   </Box>
   // )
   return <></>;
-}
+};
 
-export default FooterContent
+export default FooterContent;
